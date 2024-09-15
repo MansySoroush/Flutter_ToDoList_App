@@ -1,0 +1,5 @@
+package com.mansy.todoey
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
